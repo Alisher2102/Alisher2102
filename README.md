@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Alisher  
-
 💻 Developer | 📚 Graduated  
 
 ---
@@ -54,8 +52,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/alisher-karim-8902a333b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alisher-karim-8902a333b)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:recker2014brr@gmail.com)
 
 ---
-⭐️ From [Alisher2102](https://github.com/Alisher2102)
