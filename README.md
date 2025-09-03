@@ -48,6 +48,7 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alisher2102&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher2102&layout=compact&theme=tokyonight)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Alisher2102&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
