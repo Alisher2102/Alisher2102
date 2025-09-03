@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alisher  
 
-💻 Aspiring Full-Stack Developer | 📚 Graduated  
+💻 Developer | 📚 Graduated  
 
 ---
 
